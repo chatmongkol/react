@@ -31,7 +31,7 @@ class App extends Component {
         </div>
       <div className="container">
       
-      <h1 align="center" className="App-title">กล่องข้อความ</h1>
+      <h1 align="center" className="App-title">กล่องข้อความ อิอิ</h1>
       <div className="columns">
         <div className="column is-3"></div>
         <div className="column is-6">
